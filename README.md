@@ -39,17 +39,14 @@ Always down for the next one. If you're building something interesting, let's te
 
 #### Stack
 
-**Languages** — Python, TypeScript, Solidity, JavaScript
-
-**Frontend** — React, Next.js, TailwindCSS
-
-**Backend** — Node.js, FastAPI, Express
-
-**Blockchain** — Hardhat, Foundry, Ethers.js, Ethereum, EVM chains
-
-**AI/ML** — LangChain, Claude, OpenAI, LLM Agents, RAG pipelines
-
-**Infra** — Docker, AWS, Vercel, GitHub Actions
+| | |
+|---|---|
+| **Languages** | Python · TypeScript · Solidity · JavaScript |
+| **Frontend** | React · Next.js · TailwindCSS |
+| **Backend** | Node.js · FastAPI · Express |
+| **Blockchain** | Hardhat · Foundry · Ethers.js · Ethereum · EVM chains |
+| **AI/ML** | LangChain · Claude · OpenAI · LLM Agents · RAG pipelines |
+| **Infra** | Docker · AWS · Vercel · GitHub Actions |
 
 ---
 
