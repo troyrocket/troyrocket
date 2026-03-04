@@ -1,40 +1,56 @@
-```
- _                                  _        _
-| |_ _ __ ___  _   _ _ __ ___   ___| | _____| |_
-| __| '__/ _ \| | | | '__/ _ \ / __| |/ / _ \ __|
-| |_| | | (_) | |_| | | | (_) | (__|   <  __/ |_
- \__|_|  \___/ \__, |_|  \___/ \___|_|\_\___|\__|
-               |___/
-```
+### Hey, I'm Troy
 
-**Engineer @ Hyperloop Finance · San Francisco**
+Engineer @ **Hyperloop Finance** · San Francisco
 
-DeFi · AI Agents · ZK · Space Tech
+I build things at the intersection of AI, crypto, and space tech. Started in traditional finance and software engineering, went deep into DeFi protocols and LLM-powered products at early-stage startups, and now I'm building on-chain infrastructure at Hyperloop Finance. I care about open-source, permissionless systems, and shipping fast.
 
 ---
 
-#### now
+#### What I'm into
 
-- Shipping on-chain banking infra
-- Building AI agents for talent evaluation
-- Deep in DeFi × LLM tooling
+- **DeFi & on-chain finance** — protocol design, MEV, account abstraction, stablecoin systems
+- **AI agents** — autonomous systems, LLM tooling, multi-agent orchestration, tool-use
+- **ZK & cryptography** — privacy-preserving computation, zero-knowledge proofs
+- **Space tech** — satellite networks, decentralized physical infrastructure (DePIN)
 
-#### projects
+#### What I'm working on now
 
-[`universe-bank-on-chain`](https://github.com/troyrocket/universe-bank-on-chain-JP-Morgan-CLI-Interface) — on-chain banking CLI, JP Morgan style
-[`talent-eval-agent`](https://github.com/troyrocket/Talent-Evaluation-Agent-for-Entrepreneurs-First) — AI talent eval, built for Entrepreneurs First
-[`crypto-learning-library`](https://github.com/troyrocket/troys-crypto-learning-library) — curated crypto resources
+- Building on-chain banking infrastructure — a CLI interface for interacting with DeFi protocols in a JP Morgan-style terminal workflow
+- Developing AI agents that evaluate founder and engineering talent, built during the Entrepreneurs First program
+- Curating a comprehensive crypto learning library for builders entering web3
+- Exploring the intersection of LLM agents and on-chain execution — can an AI autonomously manage a DeFi portfolio?
 
-#### hackathons
+#### Projects
 
-**EF AI Hackathon** — AI talent evaluation agent
-**Crypto hackathons** — DeFi protocols, on-chain tooling, wallet infra
+- [**universe-bank-on-chain**](https://github.com/troyrocket/universe-bank-on-chain-JP-Morgan-CLI-Interface) — On-chain banking CLI interface. Think Bloomberg Terminal meets DeFi. Built with TypeScript, interacts with smart contracts through a command-line workflow.
 
-Looking for the next one. Building something cool? Let's team up.
+- [**talent-eval-agent**](https://github.com/troyrocket/Talent-Evaluation-Agent-for-Entrepreneurs-First) — An AI-powered agent that evaluates technical and entrepreneurial talent. Built for Entrepreneurs First using Python, LangChain, and Claude. Automates the screening process that previously took hours.
+
+- [**crypto-learning-library**](https://github.com/troyrocket/troys-crypto-learning-library) — A curated collection of crypto learning resources. Covers everything from basic blockchain concepts to advanced DeFi mechanism design and MEV research.
+
+#### Hackathons
+
+- **Entrepreneurs First AI Hackathon** — Built the talent evaluation agent from scratch in 24 hours. The agent processes resumes, GitHub profiles, and written responses to assess founder potential.
+- **Crypto hackathons** — Multiple events focused on DeFi protocols, on-chain tooling, and wallet infrastructure. I like building MVPs that solve real problems under time pressure.
+
+Always down for the next one. If you're building something interesting, let's team up.
 
 ---
 
-```
-python · typescript · solidity · react · next.js · node.js
-langchain · hardhat · ethers.js · docker · aws · fastapi
-```
+#### Stack
+
+**Languages** — Python, TypeScript, Solidity, JavaScript
+
+**Frontend** — React, Next.js, TailwindCSS
+
+**Backend** — Node.js, FastAPI, Express
+
+**Blockchain** — Hardhat, Foundry, Ethers.js, Ethereum, EVM chains
+
+**AI/ML** — LangChain, Claude, OpenAI, LLM Agents, RAG pipelines
+
+**Infra** — Docker, AWS, Vercel, GitHub Actions
+
+---
+
+*"The best way to predict the future is to build it."*
