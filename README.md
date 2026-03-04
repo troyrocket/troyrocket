@@ -1,4 +1,4 @@
-### Hey, I'm Rocket
+### Hey, I'm Troy
 
 Engineer @ **Hyperloop Finance** · San Francisco
 
