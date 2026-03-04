@@ -1,53 +1,41 @@
-### Hey, I'm Troy
+# Troy
 
-Engineer @ **Hyperloop Finance** · San Francisco
-
-I build things at the intersection of AI, crypto, and space tech. Started in traditional finance and software engineering, went deep into DeFi protocols and LLM-powered products at early-stage startups, and now I'm building on-chain infrastructure at Hyperloop Finance. I care about open-source, permissionless systems, and shipping fast.
-
----
-
-#### What I'm into
-
-- **DeFi & on-chain finance** — protocol design, MEV, account abstraction, stablecoin systems
-- **AI agents** — autonomous systems, LLM tooling, multi-agent orchestration, tool-use
-- **ZK & cryptography** — privacy-preserving computation, zero-knowledge proofs
-- **Space tech** — satellite networks, decentralized physical infrastructure (DePIN)
-
-#### What I'm working on now
-
-- Building on-chain banking infrastructure — a CLI interface for interacting with DeFi protocols in a JP Morgan-style terminal workflow
-- Developing AI agents that evaluate founder and engineering talent, built during the Entrepreneurs First program
-- Curating a comprehensive crypto learning library for builders entering web3
-- Exploring the intersection of LLM agents and on-chain execution — can an AI autonomously manage a DeFi portfolio?
-
-#### Projects
-
-- [**universe-bank-on-chain**](https://github.com/troyrocket/universe-bank-on-chain-JP-Morgan-CLI-Interface) — On-chain banking CLI interface. Think Bloomberg Terminal meets DeFi. Built with TypeScript, interacts with smart contracts through a command-line workflow.
-
-- [**talent-eval-agent**](https://github.com/troyrocket/Talent-Evaluation-Agent-for-Entrepreneurs-First) — An AI-powered agent that evaluates technical and entrepreneurial talent. Built for Entrepreneurs First using Python, LangChain, and Claude. Automates the screening process that previously took hours.
-
-- [**crypto-learning-library**](https://github.com/troyrocket/troys-crypto-learning-library) — A curated collection of crypto learning resources. Covers everything from basic blockchain concepts to advanced DeFi mechanism design and MEV research.
-
-#### Hackathons
-
-- **Entrepreneurs First AI Hackathon** — Built the talent evaluation agent from scratch in 24 hours. The agent processes resumes, GitHub profiles, and written responses to assess founder potential.
-- **Crypto hackathons** — Multiple events focused on DeFi protocols, on-chain tooling, and wallet infrastructure. I like building MVPs that solve real problems under time pressure.
-
-Always down for the next one. If you're building something interesting, let's team up.
+[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/troyrocket)
+[![twitter](https://img.shields.io/badge/twitter-@troyrocket-blue)](https://twitter.com/troyrocket)
+[![github](https://img.shields.io/badge/github-@troyrocket-black?logo=github)](https://github.com/troyrocket)
+[![company](https://img.shields.io/badge/company-Hyperloop%20Finance-red)](https://github.com/troyrocket)
+[![working on](https://img.shields.io/badge/working%20on-DeFi%20%26%20AI%20Agents-orange)](https://github.com/troyrocket)
 
 ---
 
-#### Stack
+## About Me
 
-| | |
-|---|---|
-| **Languages** | Python · TypeScript · Solidity · JavaScript |
-| **Frontend** | React · Next.js · TailwindCSS |
-| **Backend** | Node.js · FastAPI · Express |
-| **Blockchain** | Hardhat · Foundry · Ethers.js · Ethereum · EVM chains |
-| **AI/ML** | LangChain · Claude · OpenAI · LLM Agents · RAG pipelines |
-| **Infra** | Docker · AWS · Vercel · GitHub Actions |
+I'm a software engineer at Hyperloop Finance in San Francisco. I build things at the intersection of AI, crypto, and space tech. I like working on DeFi protocols, AI agents, and on-chain infrastructure.
 
 ---
 
-*"The best way to predict the future is to build it."*
+## Projects
+
+- [universe-bank-on-chain](https://github.com/troyrocket/universe-bank-on-chain-JP-Morgan-CLI-Interface) — On-chain banking CLI interface. Bloomberg Terminal meets DeFi.
+- [talent-eval-agent](https://github.com/troyrocket/Talent-Evaluation-Agent-for-Entrepreneurs-First) — AI agent that evaluates technical and entrepreneurial talent. Built for Entrepreneurs First.
+- [crypto-learning-library](https://github.com/troyrocket/troys-crypto-learning-library) — Curated collection of crypto learning resources from basics to advanced DeFi mechanism design.
+
+---
+
+## Writing
+
+- [DeFi & on-chain finance](https://github.com/troyrocket) — protocol design, MEV, account abstraction, stablecoin systems
+- [AI agents](https://github.com/troyrocket) — autonomous systems, LLM tooling, multi-agent orchestration
+- [ZK & cryptography](https://github.com/troyrocket) — privacy-preserving computation, zero-knowledge proofs
+- [Space tech](https://github.com/troyrocket) — satellite networks, decentralized physical infrastructure (DePIN)
+
+---
+
+## Get In Touch
+
+You can DM me on [Twitter](https://twitter.com/troyrocket).
+
+**Find me on:**
+
+- 🧑 GitHub: [@troyrocket](https://github.com/troyrocket)
+- 🐦 Twitter: [@troyrocket](https://twitter.com/troyrocket)
