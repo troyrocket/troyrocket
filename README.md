@@ -1,56 +1,40 @@
-# Hey, I'm Troy 🚀
+```
+ _                                  _        _
+| |_ _ __ ___  _   _ _ __ ___   ___| | _____| |_
+| __| '__/ _ \| | | | '__/ _ \ / __| |/ / _ \ __|
+| |_| | | (_) | |_| | | | (_) | (__|   <  __/ |_
+ \__|_|  \___/ \__, |_|  \___/ \___|_|\_\___|\__|
+               |___/
+```
 
-> Engineer @ **Hyperloop Finance** · San Francisco
->
-> Building at the intersection of AI, crypto, and space tech.
+**Engineer @ Hyperloop Finance · San Francisco**
 
----
-
-### About
-
-Started in traditional finance and software engineering, then went full-time into crypto and AI. Spent time at early-stage startups working on DeFi protocols and LLM-powered products before joining Hyperloop Finance to build on-chain infrastructure. Believer in open-source, permissionless systems, and shipping fast.
-
-### Interests
-
-| Area | Focus |
-|------|-------|
-| DeFi & On-chain Finance | Protocol design, MEV, account abstraction |
-| AI Agents | Autonomous systems, LLM tooling, multi-agent orchestration |
-| ZK & Cryptography | Privacy-preserving computation |
-| Space Tech | Satellite networks, decentralized physical infrastructure |
+DeFi · AI Agents · ZK · Space Tech
 
 ---
 
-### Now
+#### now
 
-- 🔨 Shipping on-chain banking infrastructure
-- 🤖 Building AI agents for talent evaluation
-- 📖 Deep-diving into DeFi and LLM tooling
+- Shipping on-chain banking infra
+- Building AI agents for talent evaluation
+- Deep in DeFi × LLM tooling
 
-### Projects
+#### projects
 
-| Project | Description |
-|---------|-------------|
-| [universe-bank-on-chain](https://github.com/troyrocket/universe-bank-on-chain-JP-Morgan-CLI-Interface) | On-chain banking CLI interface, JP Morgan style |
-| [talent-eval-agent](https://github.com/troyrocket/Talent-Evaluation-Agent-for-Entrepreneurs-First) | AI-powered talent evaluation, built for Entrepreneurs First |
-| [crypto-learning-library](https://github.com/troyrocket/troys-crypto-learning-library) | Curated crypto learning resources |
+[`universe-bank-on-chain`](https://github.com/troyrocket/universe-bank-on-chain-JP-Morgan-CLI-Interface) — on-chain banking CLI, JP Morgan style
+[`talent-eval-agent`](https://github.com/troyrocket/Talent-Evaluation-Agent-for-Entrepreneurs-First) — AI talent eval, built for Entrepreneurs First
+[`crypto-learning-library`](https://github.com/troyrocket/troys-crypto-learning-library) — curated crypto resources
 
-### Hackathons
+#### hackathons
 
-- **Entrepreneurs First AI Hackathon** — Built an AI talent evaluation agent
-- **Multiple crypto hackathons** — DeFi protocols, on-chain tooling, wallet infra
+**EF AI Hackathon** — AI talent evaluation agent
+**Crypto hackathons** — DeFi protocols, on-chain tooling, wallet infra
 
-Always looking for the next one. If you're building something interesting, let's team up.
+Looking for the next one. Building something cool? Let's team up.
 
 ---
-
-### Stack
 
 ```
-Languages     Python · TypeScript · Solidity · JavaScript
-Frontend      React · Next.js · TailwindCSS
-Backend       Node.js · FastAPI · Ethers.js
-Blockchain    Hardhat · Foundry · Ethereum
-AI/ML         LangChain · LLM Agents · Claude · OpenAI
-Infra         Docker · AWS · Vercel · GitHub Actions
+python · typescript · solidity · react · next.js · node.js
+langchain · hardhat · ethers.js · docker · aws · fastapi
 ```
