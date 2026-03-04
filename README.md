@@ -1,39 +1,23 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=65&lines=Hey%2C+I'm+Rocket+%F0%9F%9A%80;AI+%C2%B7+Crypto+%C2%B7+Space+Tech" alt="Typing SVG" />
-</p>
+### Hey, I'm Rocket
 
-<p align="center">
-  <em>Engineer @ <strong>Hyperloop Finance</strong> &nbsp;·&nbsp; San Francisco</em>
-</p>
+Engineer @ **Hyperloop Finance** · San Francisco
 
-<br>
+Building at the intersection of AI, crypto, and space tech.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="28"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" height="28"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="28"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="28"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="28"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="28"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="28"/>
-</p>
+---
 
-<br>
+**Now**
 
-<p align="center">
-  <a href="https://github.com/troyrocket/universe-bank-on-chain-JP-Morgan-CLI-Interface"><strong>universe-bank-on-chain</strong></a> · On-chain banking CLI<br>
-  <a href="https://github.com/troyrocket/Talent-Evaluation-Agent-for-Entrepreneurs-First"><strong>talent-eval-agent</strong></a> · AI talent evaluation for EF<br>
-  <a href="https://github.com/troyrocket/troys-crypto-learning-library"><strong>crypto-learning-library</strong></a> · Curated crypto resources
-</p>
+- Shipping on-chain banking infrastructure
+- Building AI agents for talent evaluation
+- Deep-diving into DeFi and LLM tooling
 
-<br>
+**Projects**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=troyrocket&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troyrocket&layout=compact&theme=transparent&hide_border=true&hide_title=true" height="150" />
-</p>
+- [universe-bank-on-chain](https://github.com/troyrocket/universe-bank-on-chain-JP-Morgan-CLI-Interface) — On-chain banking CLI interface
+- [talent-eval-agent](https://github.com/troyrocket/Talent-Evaluation-Agent-for-Entrepreneurs-First) — AI-powered talent evaluation, built for Entrepreneurs First
+- [crypto-learning-library](https://github.com/troyrocket/troys-crypto-learning-library) — Curated crypto learning resources
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=troyrocket&color=6e7681&style=flat-square&label=views"/>
-</p>
+**Stack**
+
+`Python` `TypeScript` `Solidity` `React` `Next.js` `Node.js` `Docker` `AWS`
