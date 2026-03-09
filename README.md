@@ -9,9 +9,9 @@
 
 ## About Me
 
-Builder in San Francisco. CS @Penn. ex-Bytedance. Backed by Tether Founder (Brock Pierce, DNA Fund).
+Software engineer in San Francisco. CS @Penn. ex-Bytedance. Backed by Tether Founder (Brock Pierce, DNA Fund).
 
-Currently building across AI x Crypto:
+I love to build cool stuff across AI x Crypto:
 - **Skill-Link** — Inter-skill evolving system for AI agents.
 - **Parallel Universe** — On-chain JP Morgan CLI interface for digital AI selves.
 
@@ -28,5 +28,5 @@ Currently building across AI x Crypto:
 
 ## Get In Touch
 
-- GitHub: [@troyrocket](https://github.com/troyrocket)
-- Twitter: [@Troy_crypto_](https://x.com/Troy_crypto_)
+- 🧑 GitHub: [@troyrocket](https://github.com/troyrocket)
+- 🐦 Twitter: [@Troy_crypto_](https://x.com/Troy_crypto_)
