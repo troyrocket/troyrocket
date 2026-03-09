@@ -3,14 +3,17 @@
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/troyrocket)
 [![twitter](https://img.shields.io/badge/twitter-@Troy__crypto__-blue)](https://x.com/Troy_crypto_)
 [![github](https://img.shields.io/badge/github-@troyrocket-black?logo=github)](https://github.com/troyrocket)
-[![company](https://img.shields.io/badge/company-Hyperloop%20Finance-red)](https://github.com/troyrocket)
-[![working on](https://img.shields.io/badge/working%20on-DeFi%20%26%20AI%20Agents-orange)](https://github.com/troyrocket)
+[![working on](https://img.shields.io/badge/working%20on-AI%20x%20Crypto-orange)](https://github.com/troyrocket)
 
 ---
 
 ## About Me
 
-I'm a software engineer at Hyperloop Finance in San Francisco. I build things at the intersection of AI, crypto, and space tech. I like working on DeFi protocols, AI agents, and on-chain infrastructure.
+Builder in San Francisco. CS @Penn. ex-Bytedance. Backed by Tether Founder (Brock Pierce, DNA Fund).
+
+Currently building across AI x Crypto:
+- **Skill-Link** — Inter-skill evolving system for AI agents.
+- **Parallel Universe** — On-chain JP Morgan CLI interface for digital AI selves.
 
 ---
 
@@ -23,20 +26,7 @@ I'm a software engineer at Hyperloop Finance in San Francisco. I build things at
 
 ---
 
-## Writing
-
-- [DeFi & on-chain finance](https://github.com/troyrocket) — protocol design, MEV, account abstraction, stablecoin systems
-- [AI agents](https://github.com/troyrocket) — autonomous systems, LLM tooling, multi-agent orchestration
-- [ZK & cryptography](https://github.com/troyrocket) — privacy-preserving computation, zero-knowledge proofs
-- [Space tech](https://github.com/troyrocket) — satellite networks, decentralized physical infrastructure (DePIN)
-
----
-
 ## Get In Touch
 
-You can DM me on [Twitter](https://x.com/Troy_crypto_).
-
-**Find me on:**
-
-- 🧑 GitHub: [@troyrocket](https://github.com/troyrocket)
-- 🐦 Twitter: [@Troy_crypto_](https://x.com/Troy_crypto_)
+- GitHub: [@troyrocket](https://github.com/troyrocket)
+- Twitter: [@Troy_crypto_](https://x.com/Troy_crypto_)
